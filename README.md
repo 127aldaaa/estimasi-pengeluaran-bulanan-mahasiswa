@@ -7,7 +7,7 @@
 
 ## Identitas Kakak Tingkat
 - Nama  : Luky Syawalido
-- Angkatan  : 2022
+- Angkatan  : 2021
 - Program Studi  : Pendidikan Sistem dan Teknologi Informasi
 
 ## Permintaan Program
@@ -33,3 +33,4 @@
 - Array
 
 ## Link Video Demo
+https://youtu.be/Z1hXkF8Kjxs
